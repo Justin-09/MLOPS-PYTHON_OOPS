@@ -62,7 +62,7 @@ class chatbook:
         self.menu()
         
                     
-obj = chatbook()
+chatbook()
 
     
 
